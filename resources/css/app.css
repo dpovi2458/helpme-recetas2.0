@@ -1,0 +1,11 @@
+@import 'bootstrap/scss/bootstrap';
+
+resources/
+  scss/
+    _variables.scss
+    _mixins.scss
+    app.scss {
+      body {
+        background: red;
+      }
+    }
